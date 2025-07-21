@@ -3,3 +3,4 @@
 [ ] Mastering PalmOS
 [ ] Creating Landing Page with Framer
 [ ] Generate copy with ChatGPT
+[ ] Blockchain with BASIC
